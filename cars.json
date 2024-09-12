@@ -1,0 +1,224 @@
+{
+  "cars" : [
+    {
+      "brand" : "MMC Lancer",
+      "model" : "EVO",
+      "price" : "620000",
+      "speed" : "210 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "50 л",
+      "management" : "285",
+      "id": 411
+    }, 
+    {
+      "brand" : "Opel",
+      "model" : "Astra GTC",
+      "price" : "820000",
+      "speed" : "138 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "56 л",
+      "management" : "350",
+      "id": 419
+    },
+    {
+      "brand" : "KIA",
+      "model" : "Rio",
+      "price" : "1000000",
+      "speed" : "166 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "70 л",
+      "management" : "350",
+      "id": 436
+    },
+    {
+      "brand" : "Skoda",
+      "model" : "Octavia RS",
+      "price" : "330000",
+      "speed" : "175 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "55 л",
+      "management" : "350",
+      "id": 445
+    },
+    {
+      "brand" : "Audi",
+      "model" : "A4",
+      "price" : "1100000",
+      "speed" : "136 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "64 л",
+      "management" : "350",
+      "id": 458
+    },
+    {
+      "brand" : "BMW",
+      "model" : "Х5",
+      "price" : "1300000",
+      "speed" : "167 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "93 л",
+      "management" : "350",
+      "id": 475
+    },
+    {
+      "brand" : "Mazda",
+      "model" : "Rx-7",
+      "price" : "460000",
+      "speed" : "157 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "76 л",
+      "management" : "350",
+      "id": 477
+    },
+    {
+      "brand" : "Renault",
+      "model" : "Logan",
+      "price" : "450000",
+      "speed" : "140 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "50 л",
+      "management" : "350",
+      "id": 479
+    },
+    {
+      "brand" : "Honda",
+      "model" : "Civic",
+      "price" : "600000",
+      "speed" : "149 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "50 л",
+      "management" : "350",
+      "id": 491
+    },
+    {
+      "brand" : "Ford",
+      "model" : "Raptor",
+      "price" : "2800000",
+      "speed" : "176 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "100 л",
+      "management" : "350",
+      "id": 491
+    },
+    {
+      "brand" : "BMW",
+      "model" : "E34",
+      "price" : "530000",
+      "speed" : "180 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "80 л",
+      "management" : "350",
+      "id": 507
+    },
+    {
+      "brand" : "Ford",
+      "model" : "Raptor(Ranger F150)",
+      "price" : "490000",
+      "speed" : "125 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "100 л",
+      "management" : "350",
+      "id": 508
+    },
+    {
+      "brand" : "Ford",
+      "model" : "Focus 3",
+      "price" : "900000",
+      "speed" : "130 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "55 л",
+      "management" : "350",
+      "id": 516
+    },
+    {
+      "brand" : "BMW",
+      "model" : "E30",
+      "price" : "490000",
+      "speed" : "166 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "55 л",
+      "management" : "350",
+      "id": 534
+    },
+    {
+      "brand" : "Mercedes",
+      "model" : "E55",
+      "price" : "780000",
+      "speed" : "180 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "80 л",
+      "management" : "350",
+      "id": 540
+    },
+    {
+      "brand" : "BMW",
+      "model" : "E39",
+      "price" : "1300000",
+      "speed" : "165 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "70 л",
+      "management" : "350",
+      "id": 551
+    },
+    {
+      "brand" : "Toyota",
+      "model" : "Supra",
+      "price" : "1230000",
+      "speed" : "201 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "70 л",
+      "management" : "350",
+      "id": 559
+    },
+    {
+      "brand" : "Subaru",
+      "model" : "WRX Sti",
+      "price" : "1800000",
+      "speed" : "212 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "60 л",
+      "management" : "350",
+      "id": 560
+    },
+    {
+      "brand" : "Nissan",
+      "model" : "Skyline GT-R 34",
+      "price" : "730000",
+      "speed" : "216 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "65 л",
+      "management" : "350",
+      "id": 562
+    },
+    {
+      "brand" : "Mercedes",
+      "model" : "S600",
+      "price" : "1800000",
+      "speed" : "195 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "65 л",
+      "management" : "350",
+      "id": 585
+    },
+    {
+      "brand" : "Volkswagen",
+      "model" : "Golf GTI 2021",
+      "price" : "1800000",
+      "speed" : "195 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "65 л",
+      "management" : "350",
+      "id": 589
+    },
+    {
+      "brand" : "BMW",
+      "model" : "M5 E60",
+      "price" : "2000000",
+      "speed" : "175 км/час",
+      "dispersal" : "5.4 сек",
+      "tank" : "70 л",
+      "management" : "350",
+      "id": 612
+    }
+  ]
+}
